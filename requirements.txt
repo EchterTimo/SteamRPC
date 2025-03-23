@@ -1,0 +1,2 @@
+python-steam-api
+pypresence
